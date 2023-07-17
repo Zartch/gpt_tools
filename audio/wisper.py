@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "<api_key>"
 
 
 
